@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Novell.Directory.Ldap.NETStandard" Version="3.6.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
