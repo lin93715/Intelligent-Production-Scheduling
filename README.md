@@ -1,5 +1,7 @@
 # 基於基因演算法之智慧製造排程
 
+![Downloads](https://img.shields.io/github/downloads/{user}/{repo}/total)
+
 ## 📌 專案概述
 ** 智慧排貨 **
 ** 是一套以 **ASP.NET Core** 為基礎開發的 Web API，  
