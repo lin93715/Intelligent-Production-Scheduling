@@ -1,6 +1,6 @@
 # 基於基因演算法之智慧製造排程
 
-![Downloads](https://img.shields.io/github/downloads/{user}/{repo}/total)
+[![Downloads](https://img.shields.io/github/downloads/lin93715/Intelligent-Production-Scheduling/total.svg)](https://github.com/lin93715/Intelligent-Production-Scheduling/releases)
 
 ## 📌 專案概述
 ** 智慧排貨 **
